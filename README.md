@@ -7,6 +7,6 @@
 📊 In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 ```text
-C           14 mins         ███████████████████████▒░   92.69 % 
+
 ```
 <!--END_SECTION:waka-->
