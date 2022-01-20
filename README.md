@@ -7,6 +7,7 @@
 📊 In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   1 hr 52 mins    ██████████████████████░░░   88.24 % 
+VimL     15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 ```
 <!--END_SECTION:waka-->
