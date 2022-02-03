@@ -32,6 +32,7 @@ zsh      12 mins         ▓░░░░░░░░░░░░░░░░░�
 ![Git   ](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=Git)
 ![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=Docker)
 ![Java  ](https://img.shields.io/badge/-Java-grey?style=flat-square&logo=Java)
+![Vim   ](https://img.shields.io/badge/-Vim-grey?style=flat-square&logo=Vim)
 ![Bash  ](https://img.shields.io/badge/-Bash-grey?style=flat-square&)
 
 I am proficient in Python and capable of programming in C, Java. I can efficiently work with command line interface and tools like Git and Docker. I have a great passion for mathematics, especially in the field of data science.
