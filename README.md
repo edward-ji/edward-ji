@@ -16,6 +16,8 @@ In the past seven days, I spent my time on:
 
 <!--START_SECTION:waka-->
 ```text
+Total: 39 mins
+
 C        34 mins         █████████████████████▓░░░   86.27 % 
 Python   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
 ```
