@@ -16,10 +16,11 @@ In the past seven days, I spent my time on:
 
 <!--START_SECTION:waka-->
 ```text
-Total: 39 mins
-
-C        34 mins         █████████████████████▓░░░   86.27 % 
-Python   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+C          5 hrs 6 mins    ██████████████████▒░░░░░░   73.13 % 
+VimL       1 hr            ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Text       38 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Python     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Markdown   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 <!--END_SECTION:waka-->
 
