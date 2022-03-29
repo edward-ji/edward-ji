@@ -17,11 +17,11 @@ In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
-C           21 hrs 47 mins  ██████████████████▓░░░░░░   74.93 %
-Python      2 hrs 22 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-fugitive    2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-Makefile    1 hr 44 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-Other       33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+C            16 hrs 6 mins   ███████████████▓░░░░░░░░░   62.23 %
+Python       3 hrs 41 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
+fugitive     2 hrs 25 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
+Makefile     2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 %
+Other        56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
