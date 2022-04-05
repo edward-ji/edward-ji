@@ -17,7 +17,7 @@ In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
-Other        2 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
+Other      2 hrs 7 mins    █████████░░░░░░░░░░░░░░░░   36.06 %
 ```
 
 <!--END_SECTION:waka-->
