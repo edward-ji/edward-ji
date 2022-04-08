@@ -17,7 +17,9 @@ In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
-Other      2 hrs 3 mins    ███████████░░░░░░░░░░░░░░   43.41 %
+TeX        1 hr 10 mins    ████████░░░░░░░░░░░░░░░░░   31.68 %
+C          45 mins         █████░░░░░░░░░░░░░░░░░░░░   20.40 %
+Other      36 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
 ```
 
 <!--END_SECTION:waka-->
