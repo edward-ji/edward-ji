@@ -17,11 +17,11 @@ In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 5 mins    ████████████▒░░░░░░░░░░░░   49.90 %
-TeX          2 hrs           ████████████░░░░░░░░░░░░░   47.89 %
-zsh          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TeX          5 hrs 10 mins   █████████████████▓░░░░░░░   70.31 %
+Python       2 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   28.47 %
+zsh          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
