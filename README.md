@@ -17,10 +17,9 @@ In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
-TeX          8 hrs 3 mins    ████████████████████▒░░░░   81.00 %
-Python       1 hr 51 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.62 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TeX      8 hrs 3 mins    ████████████████████▒░░░░   81.29 %
+Python   1 hr 51 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
