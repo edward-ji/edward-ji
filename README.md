@@ -17,9 +17,12 @@ In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
-TeX      8 hrs 3 mins    ████████████████████▒░░░░   81.29 %
-Python   1 hr 51 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.69 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TeX        7 hrs 13 mins   ████████████████░░░░░░░░░   64.01 %
+Python     3 hrs 13 mins   ███████░░░░░░░░░░░░░░░░░░   28.63 %
+INI        18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+Text       16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+fugitive   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Other      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
