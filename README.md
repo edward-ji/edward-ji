@@ -1,14 +1,13 @@
 ## Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/ziao-ji)
-
+[![Profile](https://img.shields.io/badge/-Profile-blue?style=social&logo=Bootstrap)](https://www.jiziao.works)
 
 ### 🎓 My Education
      
 I am studying Bachelor of Advanced Computer and Bachelor of Science, majoring in computer science and data science. 
 
-I am also part of the Dalyell Scholars program. 
-
+I am also part of the Dalyell Scholars program.
 
 ### 📊 My Activity
 
@@ -35,4 +34,4 @@ Other      11 mins         ▓░░░░░░░░░░░░░░░░�
 [![Vim   ](https://img.shields.io/badge/-Vim-grey?style=flat-square&logo=Vim)](#-my-skills)
 [![Bash  ](https://img.shields.io/badge/-Bash-grey?style=flat-square&)](#-my-skills)
 
-I am proficient in Python and capable of programming in C, Java. I can efficiently work with command line interface and tools like Git and Docker. I have a great passion for mathematics, especially in the field of data science.
+Hello! I am Edward Ji. I enjoy automating tedious tasks with Python and programming system-level applications in C. I can efficiently collaborate using VCS like Git. I have a great passion for mathematics, especially in the field of data science.
