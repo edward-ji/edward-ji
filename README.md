@@ -16,8 +16,9 @@ In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 hrs 12 mins   ██████████████████████▒░░   89.19 %
-Other    9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Python   2 hrs 48 mins   █████████████████████▓░░░   87.16 %
+VimL     13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+Other    8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
 ```
 
 <!--END_SECTION:waka-->
