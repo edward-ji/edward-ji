@@ -16,9 +16,10 @@ In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
-TeX      3 hrs 18 mins   ████████████████████████▓   98.97 %
+TeX      3 hrs 18 mins   ████████████████████████▓   98.90 %
 YAML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Zsh      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
