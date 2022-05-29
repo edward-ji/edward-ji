@@ -16,11 +16,9 @@ In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
-TeX         2 hrs 22 mins   ████████████████████████░   96.64 %
-JSON        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-gitrebase   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Zsh         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Jupyter Notebook   7 mins          █████████████░░░░░░░░░░░░   51.48 %
+JSON               4 mins          ███████▓░░░░░░░░░░░░░░░░░   30.79 %
+Other              2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
 ```
 
 <!--END_SECTION:waka-->
