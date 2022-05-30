@@ -16,9 +16,9 @@ In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
-Jupyter Notebook   7 mins          █████████████░░░░░░░░░░░░   51.48 %
-JSON               4 mins          ███████▓░░░░░░░░░░░░░░░░░   30.79 %
-Other              2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+Jupyter Notebook   51 mins         █████████████████████▒░░░   85.17 %
+JSON               4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Other              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
 ```
 
 <!--END_SECTION:waka-->
