@@ -1,4 +1,4 @@
-## Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+## Hi there <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/ziao-ji)
 [![Profile](https://img.shields.io/badge/-Profile-blue?style=social&logo=Bootstrap)](https://www.jiziao.works)
