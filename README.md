@@ -16,12 +16,9 @@ In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
-Jupyter Notebook   4 hrs 8 mins    █████████████████▒░░░░░░░   69.00 %
-PHP                1 hr            ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
-Python             31 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
-C                  10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
-HTML               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-JavaScript         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Jupyter Notebook   3 hrs 37 mins   █████████████████████▒░░░   85.65 %
+Python             32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
+C                  4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
