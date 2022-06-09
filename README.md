@@ -16,9 +16,10 @@ In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
-Jupyter Notebook   3 hrs 37 mins   █████████████████████▒░░░   85.65 %
-Python             32 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.64 %
-C                  4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+Jupyter Notebook   4 hrs 12 mins   ████████████████████▒░░░░   81.40 %
+Python             44 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.27 %
+kivy               9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+C                  4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
