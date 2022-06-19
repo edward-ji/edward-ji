@@ -16,9 +16,10 @@ In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
-C        2 hrs 38 mins   ████████████████████████▓   98.19 %
-VimL     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+C          2 hrs 55 mins   ███████████████████████░░   92.59 %
+SWIG       10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+VimL       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
