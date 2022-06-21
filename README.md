@@ -16,10 +16,12 @@ In the past seven days, I spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
-C          3 hrs 17 mins   ███████████████████████▒░   93.35 %
-SWIG       10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
-VimL       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+C                  4 hrs 35 mins   ██████████████▒░░░░░░░░░░   57.40 %
+Jupyter Notebook   1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.84 %
+Makefile           45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 %
+conf               19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Markdown           14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+INI                12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
