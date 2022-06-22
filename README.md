@@ -1,7 +1,7 @@
 ## <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> Hi there!
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -26,7 +26,7 @@ Linux                    3 hrs 15 mins       ██████████░�
 ```
 
 
- Last Updated on 22/06/2022 06:22:14 UTC
+ Last Updated on 22/06/2022 12:38:39 UTC
 <!--END_SECTION:waka-->
 
 💪🏻 **My Skills**
