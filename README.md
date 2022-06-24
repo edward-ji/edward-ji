@@ -47,7 +47,7 @@ I enjoy automating tedious tasks with Python and programming system-level applic
 <table>
 <tr>
     <th>Degree</th>
-    <td>Bahcelar of Advanced Computing and Bachelor of Science</td>
+    <td>Bachelor of Advanced Computing and Bachelor of Science</td>
 </tr>
 <tr>
     <th>Institution</th>
@@ -63,4 +63,4 @@ I enjoy automating tedious tasks with Python and programming system-level applic
 
 [![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/ziao-ji)
 [![Personal Website](https://img.shields.io/badge/-Personal%20Website-blue?style=social&logo=Bootstrap)](https://www.jiziao.works)
-[![StackOverflow Profile](https://img.shields.io/badge/-StackOverflow-blue?style=social&logo=StackOverflow)](https://stackoverflow.com/users/11658924/spearandshield)
+[![Stack Overflow Profile](https://img.shields.io/badge/-Stack%20Overflow-blue?style=social&logo=StackOverflow)](https://stackoverflow.com/users/11658924/spearandshield)
