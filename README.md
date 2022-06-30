@@ -27,14 +27,14 @@ Linux                    0 secs              ░░░░░░░░░░░�
 
 💪🏻 **My Skills**
 
-[![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)](#-my-skills)
-[![C     ](https://img.shields.io/badge/-C-blue?style=flat-square&logo=C)](#-my-skills)
-[![Git   ](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=Git)](#-my-skills)
-[![SQL   ](https://img.shields.io/badge/-SQL-grey?style=flat-square&logo=SQLite)](#-my-skills)
-[![Bash  ](https://img.shields.io/badge/-Bash-grey?style=flat-square&logo=GNU-Bash)](#-my-skills)
-[![Java  ](https://img.shields.io/badge/-Java-grey?style=flat-square&logo=Java)](#-my-skills)
-[![Vim   ](https://img.shields.io/badge/-Vim-grey?style=flat-square&logo=Vim)](#-my-skills)
-[![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=Docker)](#-my-skills)
+[![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)](#)
+[![C     ](https://img.shields.io/badge/-C-blue?style=flat-square&logo=C)](#)
+[![Git   ](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=Git)](#)
+[![SQL   ](https://img.shields.io/badge/-SQL-grey?style=flat-square&logo=SQLite)](#)
+[![Bash  ](https://img.shields.io/badge/-Bash-grey?style=flat-square&logo=GNU-Bash)](#)
+[![Java  ](https://img.shields.io/badge/-Java-grey?style=flat-square&logo=OpenJDK)](#)
+[![Vim   ](https://img.shields.io/badge/-Vim-grey?style=flat-square&logo=Vim)](#)
+[![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=Docker)](#)
 
 I enjoy automating tedious tasks with Python and programming system-level applications in C. I can efficiently collaborate using VCS like Git. I have a great passion for mathematics, especially in the field of data science.
 
