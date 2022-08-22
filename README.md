@@ -1,23 +1,8 @@
 ## <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> Hi there!
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Java                     7 mins              █████████████████████████   100.0% 
-conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-🔥 Editors: 
-Vim                      7 mins              █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 21/08/2022 12:33:15 UTC
+ Last Updated on 22/08/2022 01:58:29 UTC
 <!--END_SECTION:waka-->
 
 💪🏻 **My Skills**
