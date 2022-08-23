@@ -5,19 +5,18 @@
 
 ```text
 💬 Programming Languages: 
-Java                     7 mins              █████████████████████████   100.0% 
-conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 22/08/2022 12:41:03 UTC
+ Last Updated on 23/08/2022 02:04:34 UTC
 <!--END_SECTION:waka-->
 
 💪🏻 **My Skills**
