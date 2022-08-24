@@ -57,5 +57,5 @@ I enjoy automating tedious tasks with Python and programming system-level applic
 🔗 **My Profiles**
 
 [![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/ziao-ji)
-[![Personal Website](https://img.shields.io/badge/-Personal%20Website-blue?style=social&logo=Bootstrap)](https://www.jiziao.works)
+[![Personal Website](https://img.shields.io/badge/-Personal%20Website-blue?style=social&logo=Bootstrap)](https://jiziao.works)
 [![Stack Overflow Profile](https://img.shields.io/badge/-Stack%20Overflow-blue?style=social&logo=StackOverflow)](https://stackoverflow.com/users/11658924/spearandshield)
