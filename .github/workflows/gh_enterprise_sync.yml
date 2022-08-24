@@ -1,25 +1,23 @@
 name: GitHub Enterprise Sync
 
 on:
+  push:
+    branches:
+      - master
   workflow_run:
     workflows: ["Waka Readme"]
     types:
       - completed
   workflow_dispatch:
 
-permissions: read-all
-
 jobs:
-  sync:
-    runs-on: ubuntu-20.04
-    name: Git Repo Sync
-    steps:      
-    - uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
-        
-    - uses: shiqianwei0508/git-repo-sync-gitlab@v0.3.1
-      with:
-        target-url: https://github.sydney.edu.au/ZIJI4098/ZIJI4098.git
-        target-username: ZIJI4098
-        target-token: ${{ secrets.GH_ENTERPRISE_TOKEN }}
+  git-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: git-sync
+        uses: wei/git-sync@v3
+        with:
+          source_repo: "Edward-Ji/Edward-Ji"
+          source_branch: "main"
+          destination_repo: "https://ZIJI4098:${{ secrets.GH_ENTERPRISE_TOKEN }}@github.sydney.edu.au/ZIJI4098/ZIJI4098.git"
+          destination_branch: "main"
