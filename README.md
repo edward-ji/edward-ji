@@ -31,6 +31,7 @@ Mac                      37 mins             ███████████�
 [![Git   ](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=Git)](#)
 [![SQL   ](https://img.shields.io/badge/-SQL-grey?style=flat-square&logo=SQLite)](#)
 [![Bash  ](https://img.shields.io/badge/-Bash-grey?style=flat-square&logo=GNU-Bash)](#)
+[![R     ](https://img.shields.io/badge/-R-grey?style=flat-square&logo=R)](#)
 [![Java  ](https://img.shields.io/badge/-Java-grey?style=flat-square&logo=OpenJDK)](#)
 [![Vim   ](https://img.shields.io/badge/-Vim-grey?style=flat-square&logo=Vim)](#)
 [![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=Docker)](#)
