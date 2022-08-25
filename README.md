@@ -36,7 +36,10 @@ Mac                      39 mins             ███████████�
 [![Vim   ](https://img.shields.io/badge/-Vim-grey?style=flat-square&logo=Vim)](#)
 [![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=Docker)](#)
 
-I enjoy automating tedious tasks with Python and programming system-level applications in C. I can efficiently collaborate using VCS like Git. I have a great passion for mathematics, especially in the field of data science.
+Hello! I am Edward. I excel at Python and am proficient in C, SQL, Bash, R, and
+Java. I can efficiently work with the command line and tools like Vim, Git,
+Jupyter Notebook, and Docker. I enjoy automating tedious tasks and exploring new
+technologies. I have a great passion for mathematics and deep learning.
 
 🎓 **My Education**
 
