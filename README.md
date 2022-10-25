@@ -58,6 +58,10 @@ technologies. I have a great passion for mathematics and deep learning.
     <th>Major</th>
     <td>Computer Science and Data Science</td>
 </tr>
+<tr>
+    <th>Expected</th>
+    <td>Nov 2025</td>
+</tr>
 </table>
 
 🔗 **My Profiles**
