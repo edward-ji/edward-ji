@@ -64,6 +64,6 @@ technologies. I have a great passion for mathematics and deep learning.
 
 🔗 **My Profiles**
 
-[![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/ziao-ji)
-[![Personal Website](https://img.shields.io/badge/-Personal%20Website-blue?style=social&logo=Bootstrap)](https://jiziao.works)
-[![Stack Overflow Profile](https://img.shields.io/badge/-Stack%20Overflow-blue?style=social&logo=StackOverflow)](https://stackoverflow.com/users/11658924/spearandshield)
+[![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/edward-ji)
+[![Personal Website](https://img.shields.io/badge/-Personal%20Website-blue?style=social&logo=Bootstrap)](https://edwardji.dev)
+[![Stack Overflow Profile](https://img.shields.io/badge/-Stack%20Overflow-blue?style=social&logo=StackOverflow)](https://stackoverflow.com/users/11658924)
