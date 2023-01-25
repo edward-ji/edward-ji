@@ -5,18 +5,18 @@
 
 ```text
 💬 Programming Languages: 
-Python                   18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 25/01/2023 01:18:40 UTC
+ Last Updated on 25/01/2023 12:33:50 UTC
 <!--END_SECTION:waka-->
 
 💪🏻 **My Skills**
