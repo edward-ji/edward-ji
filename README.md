@@ -21,7 +21,7 @@ Mac                      2 hrs 24 mins       █████████░░�
 ```
 
 
- Last Updated on 12/03/2023 12:28:39 UTC
+ Last Updated on 13/03/2023 12:32:53 UTC
 <!--END_SECTION:waka-->
 
 💪🏻 **My Skills**
