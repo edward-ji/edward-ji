@@ -23,7 +23,7 @@ Linux                    8 hrs 1 min         ███████████�
 ```
 
 
- Last Updated on 12/04/2023 12:28:59 UTC
+ Last Updated on 13/04/2023 01:10:46 UTC
 <!--END_SECTION:waka-->
 
 💪🏻 **My Skills**
