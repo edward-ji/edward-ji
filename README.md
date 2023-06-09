@@ -5,17 +5,17 @@
 
 ```text
 💬 Programming Languages: 
-Lua                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 09/06/2023 01:36:52 UTC
+ Last Updated on 09/06/2023 12:29:08 UTC
 <!--END_SECTION:waka-->
 
 💪🏻 **My Skills**
