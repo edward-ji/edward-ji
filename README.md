@@ -5,17 +5,19 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+sshconfig                5 mins              █████████████████████████   99.69 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      5 mins              ████████████████████████░   95.65 % 
+Neovim                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/06/2023 01:41:53 UTC
+ Last Updated on 18/06/2023 12:26:56 UTC
 <!--END_SECTION:waka-->
 
 💪🏻 **My Skills**
