@@ -23,24 +23,25 @@ Mac                      16 hrs 7 mins       ███████████�
  Last Updated on 17/09/2023 12:24:57 UTC
 <!--END_SECTION:waka-->
 
-💪🏻 **My Skills**
+### About me
 
-[![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)](#)
-[![C     ](https://img.shields.io/badge/-C-blue?style=flat-square&logo=C)](#)
-[![Git   ](https://img.shields.io/badge/-Git-grey?style=flat-square&logo=Git)](#)
-[![SQL   ](https://img.shields.io/badge/-SQL-grey?style=flat-square&logo=SQLite)](#)
-[![Bash  ](https://img.shields.io/badge/-Bash-grey?style=flat-square&logo=GNU-Bash)](#)
-[![R     ](https://img.shields.io/badge/-R-grey?style=flat-square&logo=R)](#)
-[![Java  ](https://img.shields.io/badge/-Java-grey?style=flat-square&logo=OpenJDK)](#)
-[![Vim   ](https://img.shields.io/badge/-Vim-grey?style=flat-square&logo=Vim)](#)
-[![Docker](https://img.shields.io/badge/-Docker-grey?style=flat-square&logo=Docker)](#)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
+[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 
-Hello! I am Edward. I excel at Python and am proficient in C, SQL, Bash, R, and
-Java. I can efficiently work with the command line and tools like Vim, Git,
-Jupyter Notebook, and Docker. I enjoy automating tedious tasks and exploring new
-technologies. I have a great passion for mathematics and deep learning.
+[![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
+[![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 
-🎓 **My Education**
+Hello! I'm Edward. I excel at Python, and can proficiently program in C, SQL, R, Java, etc. I can efficiently navigate the command line and use tools like Vim, Git, Jupyter Notebook, and Docker. I enjoy challenging tasks and exploring new technologies. I have a great passion for mathematics and deep learning.
+
+
+### Education
 
 <table>
 <tr>
@@ -61,8 +62,9 @@ technologies. I have a great passion for mathematics and deep learning.
 </tr>
 </table>
 
-🔗 **My Profiles**
+### Profiles
 
-[![LinkedIn Profile](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/edward-ji)
-[![Personal Website](https://img.shields.io/badge/-Personal%20Website-blue?style=social&logo=Bootstrap)](https://edwardji.dev)
-[![Stack Overflow Profile](https://img.shields.io/badge/-Stack%20Overflow-blue?style=social&logo=StackOverflow)](https://stackoverflow.com/users/11658924)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edward-ji)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-0ea0ff?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8%2F9hAAAABGdBTUEAALGPC%2FxhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAbGVYSWZNTQAqAAAACAAEARIAAwAAAAEAAQAAARoABQAAAAEAAAA%2BARsABQAAAAEAAABGh2kABAAAAAEAAABOAAAAAAAAAEgAAAABAAAASAAAAAEAAqACAAQAAAABAAAAEKADAAQAAAABAAAAEAAAAACyWb6KAAAACXBIWXMAAAsTAAALEwEAmpwYAAACkmlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNi4wLjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyIKICAgICAgICAgICAgeG1sbnM6ZXhpZj0iaHR0cDovL25zLmFkb2JlLmNvbS9leGlmLzEuMC8iPgogICAgICAgICA8dGlmZjpZUmVzb2x1dGlvbj43MjwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24%2BNzI8L3RpZmY6WFJlc29sdXRpb24%2BCiAgICAgICAgIDx0aWZmOk9yaWVudGF0aW9uPjE8L3RpZmY6T3JpZW50YXRpb24%2BCiAgICAgICAgIDxleGlmOlBpeGVsWERpbWVuc2lvbj4zMjwvZXhpZjpQaXhlbFhEaW1lbnNpb24%2BCiAgICAgICAgIDxleGlmOkNvbG9yU3BhY2U%2BMTwvZXhpZjpDb2xvclNwYWNlPgogICAgICAgICA8ZXhpZjpQaXhlbFlEaW1lbnNpb24%2BMzI8L2V4aWY6UGl4ZWxZRGltZW5zaW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KQdSz%2FgAAAzNJREFUOBF1U1toE0EUvftKmnTzarvpI4mIxrciFT8EHwXbKsUHCL6oIgj6oQi%2BQP3RBhUE%2FfGvWlHBr1ILlaooWG20aEVtRUGtptIEU41psk02aTbdZGecWUzxxwuXuTOcc2bu2bsc%2FCfm%2B%2F0HqiSpjQXwC4JwWJKkKUVRRgmcJ4lKNKZU0LWlpcU8NDS0ye50HLXZ7esYYEG02SA%2BEYeJ2K%2BpZCLZQGBDJDmSOkkoCZCLADnLymZX%2Bnwh0SbyDEbFImaguqoSkF6AVCrNpzLZH2Oj35sJ9itJg0OVaNANdkjSaY%2FXs%2B53Uta%2BRVShpsLMvh4cZMPhCCtIXs3vcVdk1bw9l83eK3GoAH0F7claU%2Btu50xmZxkgpm3%2FaiY5qcDxPRvgaGszeEWevdH5kZlVK0BCTt0m%2BALlUjJNvMRrr8jxrpExWZXGOk%2Fh2Z5KRpYVqHCIABYBtEweH7zUydzpeZbasbZ%2B%2Ft2B9xOUazw9EAD2U1SRx8KR%2Fpsnt4Kz3IJC4d9gE8tAK2gwMhKF3PQ02rOxnnDgOSUHAgGDa7QQDALGr7osn0KRI01rFvsQMe%2F1lxgzoeThR2IKPkdTYOJ5LHDAMmBKt5%2FZ1bP32MUcJi%2FgqFIwGMTL57rnrPS6Ly%2BsX4BtFjPLMTwsm%2BcDt8NGWBxUu6ysVOXSqxH45Gz%2BYWff2whDuMZnpEqkwF1n9%2Fc2NK7a4q4Udb1Y5DjirTatAWu2AG9i9WRK5QaeDg88iuqNHR0dhom0j5lh2Hnh9u5EMv4GWJ3DhTxKJ2RQMznit4rIMHApORnadq59OyWXPDAEiAZ%2B9%2B66QNZcWi0%2Bpq6ns6qukvFQyeFkJq9DuQmUKe052cYplggY42y0QA5p0Jp0A3XjfVfv11U7V8gxGSHiaFWNi5lUciP7zndtffDkRQhjzJCgWGMC6fpv%2FPQ0Xel%2FORwCu92KXS4RDX%2BJwPpD7W8omQIJeQZfqv7eLkpLF9XdUlV2c8alQ%2B%2BJVjAJPBy41g3R0SzUOEyD35KTrflYLEwUaPuo9C8YQn6%2FyAtmF4M0pHokq5UTsPnrz3hhPCaPIwX1gWDqdpiFD4lEglpjxB%2FQSWMkuqR%2BpwAAAABJRU5ErkJggg%3D%3D)
+](https://edwardji.dev)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11658924)
