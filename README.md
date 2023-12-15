@@ -5,17 +5,17 @@
 
 ```text
 💬 Programming Languages: 
-Swift                    53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      53 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/12/2023 01:08:11 UTC
+ Last Updated on 15/12/2023 12:28:29 UTC
 <!--END_SECTION:waka-->
 
 ### About me
