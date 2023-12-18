@@ -5,17 +5,17 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Jupyter Notebook         3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      3 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/12/2023 01:07:58 UTC
+ Last Updated on 18/12/2023 12:29:27 UTC
 <!--END_SECTION:waka-->
 
 ### About me
