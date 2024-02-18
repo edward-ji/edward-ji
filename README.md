@@ -35,11 +35,10 @@ Mac                      12 mins             ███████████�
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 
-Hello! I'm Edward. I excel at Python, and can proficiently program in C, SQL, R,
+Hello! I'm Edward. I excel at Python, can proficiently program in C, SQL, Swift,
 Java, etc. I can efficiently navigate the command line and use tools like Vim,
 Git, and Docker. I enjoy challenging tasks and exploring new technologies. I
-have a great passion for mathematics and deep learning.
-
+have great passion for mathematics and deep learning.
 
 ### Education
 
