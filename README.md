@@ -28,7 +28,6 @@ Mac                      29 hrs 1 min        ███████████�
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](#)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](#)
@@ -36,10 +35,10 @@ Mac                      29 hrs 1 min        ███████████�
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](#)
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 
-Hello! I'm Edward. I excel at Python, can proficiently program in C, SQL, Swift,
-Java, etc. I can efficiently navigate the command line and use tools like Vim,
-Git, and Docker. I enjoy challenging tasks and exploring new technologies. I
-have great passion for mathematics and deep learning.
+Hello! I'm Edward. I excel at Python, and can proficiently program in C, SQL,
+Swift, Java, etc. I can efficiently navigate the command line and use tools like
+Vim, Git, and Docker. I enjoy challenging tasks and exploring new technologies.
+I have a great passion for mathematics and deep learning.
 
 ### Education
 
