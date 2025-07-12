@@ -1,23 +1,8 @@
 ## <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> Hi there!
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Go                       0 secs              ███████████░░░░░░░░░░░░░░   44.23 % 
-sshconfig                0 secs              ████████░░░░░░░░░░░░░░░░░   30.77 % 
-Python                   0 secs              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-
-🔥 Editors: 
-Neovim                   1 min               █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 12/07/2025 01:54:11 UTC
+ Last Updated on 12/07/2025 12:40:37 UTC
 <!--END_SECTION:waka-->
 
 ### About me
