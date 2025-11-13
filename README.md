@@ -5,18 +5,17 @@
 
 ```text
 💬 Programming Languages: 
-sh                       9 mins              █████████████████████████   98.63 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 13/11/2025 01:45:40 UTC
+ Last Updated on 13/11/2025 12:47:02 UTC
 <!--END_SECTION:waka-->
 
 ### About me
