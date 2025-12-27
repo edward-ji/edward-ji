@@ -5,19 +5,17 @@
 
 ```text
 💬 Programming Languages: 
-gitconfig                12 mins             ███████████████████░░░░░░   76.30 % 
-tmux                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Other                    1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      16 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/12/2025 01:49:06 UTC
+ Last Updated on 27/12/2025 12:43:31 UTC
 <!--END_SECTION:waka-->
 
 ### About me
