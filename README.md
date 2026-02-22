@@ -5,17 +5,18 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     0 secs              ██████████████████░░░░░░░   73.10 % 
+HTML                     0 secs              ███████░░░░░░░░░░░░░░░░░░   26.90 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/02/2026 02:27:12 UTC
+ Last Updated on 22/02/2026 12:54:49 UTC
 <!--END_SECTION:waka-->
 
 ### About me
