@@ -5,19 +5,19 @@
 
 ```text
 💬 Programming Languages: 
-gitrebase                7 mins              ██████████████░░░░░░░░░░░   54.27 % 
-TypeScript               6 mins              ███████████░░░░░░░░░░░░░░   45.73 % 
+TypeScript               25 mins             ███████████████████░░░░░░   76.79 % 
+gitrebase                7 mins              ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
 
 🔥 Editors: 
-Neovim                   7 mins              ██████████████░░░░░░░░░░░   54.27 % 
-Cursor                   6 mins              ███████████░░░░░░░░░░░░░░   45.73 % 
+Cursor                   16 mins             █████████████░░░░░░░░░░░░   50.51 % 
+Neovim                   16 mins             ████████████░░░░░░░░░░░░░   49.49 % 
 
 💻 Operating System: 
-Mac                      14 mins             █████████████████████████   100.00 % 
+Mac                      33 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/03/2026 13:03:35 UTC
+ Last Updated on 14/03/2026 02:12:17 UTC
 <!--END_SECTION:waka-->
 
 ### About me
