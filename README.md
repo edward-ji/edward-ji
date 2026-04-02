@@ -1,8 +1,27 @@
 ## <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> Hi there!
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 02/04/2026 02:33:14 UTC
+```text
+💬 Programming Languages: 
+Other                    1 hr 11 mins        ██████████████░░░░░░░░░░░   56.54 % 
+Python                   19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+sh                       12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+
+🔥 Editors: 
+Claude Code              1 hr 45 mins        █████████████████████░░░░   83.54 % 
+Neovim                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+
+💻 Operating System: 
+Linux                    1 hr 45 mins        █████████████████████░░░░   83.54 % 
+Mac                      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+```
+
+
+ Last Updated on 02/04/2026 13:19:02 UTC
 <!--END_SECTION:waka-->
 
 ### About me
