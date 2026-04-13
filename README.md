@@ -5,23 +5,23 @@
 
 ```text
 💬 Programming Languages: 
-Svelte                   3 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   37.60 % 
-Other                    2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-TypeScript               1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Python                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+Other                    2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.99 % 
+Svelte                   2 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+Python                   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+TypeScript               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
 
 🔥 Editors: 
-Neovim                   7 hrs 33 mins       ██████████████████░░░░░░░   73.50 % 
-Claude Code              2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+Neovim                   4 hrs 34 mins       ██████████████░░░░░░░░░░░   54.75 % 
+Claude Code              3 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.25 % 
 
 💻 Operating System: 
-Mac                      7 hrs 33 mins       ██████████████████░░░░░░░   73.50 % 
-Linux                    2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+Mac                      4 hrs 34 mins       ██████████████░░░░░░░░░░░   54.75 % 
+Linux                    3 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.25 % 
 ```
 
 
- Last Updated on 13/04/2026 02:53:52 UTC
+ Last Updated on 13/04/2026 13:43:33 UTC
 <!--END_SECTION:waka-->
 
 ### About me
