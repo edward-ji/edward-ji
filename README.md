@@ -5,21 +5,22 @@
 
 ```text
 💬 Programming Languages: 
-Python                   38 mins             █████████████░░░░░░░░░░░░   50.38 % 
-Other                    26 mins             █████████░░░░░░░░░░░░░░░░   34.82 % 
-Bash                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Python                   38 mins             ███████████████░░░░░░░░░░   61.78 % 
+Bash                     11 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+Other                    10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+Svelte                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-Unknown Editor           45 mins             ███████████████░░░░░░░░░░   58.95 % 
-Claude Code              31 mins             ██████████░░░░░░░░░░░░░░░   41.05 % 
+Unknown Editor           47 mins             ███████████████████░░░░░░   75.74 % 
+Claude Code              15 mins             ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
 
 💻 Operating System: 
-Linux                    1 hr 16 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 2 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/05/2026 03:27:38 UTC
+ Last Updated on 04/05/2026 14:06:17 UTC
 <!--END_SECTION:waka-->
 
 ### About me
