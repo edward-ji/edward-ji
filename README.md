@@ -1,26 +1,8 @@
 ## <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> Hi there!
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-Python                   24 mins             ███████████████████░░░░░░   74.23 % 
-Other                    5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Svelte                   2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-
-🔥 Editors: 
-Unknown Editor           27 mins             █████████████████████░░░░   83.38 % 
-Claude Code              5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-
-💻 Operating System: 
-Linux                    33 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 06/05/2026 14:19:24 UTC
+ Last Updated on 07/05/2026 03:25:33 UTC
 <!--END_SECTION:waka-->
 
 ### About me
