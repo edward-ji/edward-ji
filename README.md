@@ -5,22 +5,22 @@
 
 ```text
 💬 Programming Languages: 
-Svelte                   28 mins             ██████████░░░░░░░░░░░░░░░   41.63 % 
-TypeScript               17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
-SQL                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Markdown                 8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Svelte                   28 mins             ████████████░░░░░░░░░░░░░   48.77 % 
+netrw                    11 mins             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Markdown                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+SQL                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🔥 Editors: 
-Unknown Editor           1 hr 8 mins         █████████████████████████   98.61 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Unknown Editor           47 mins             ████████████████████░░░░░   79.68 % 
+Neovim                   12 mins             █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
 
 💻 Operating System: 
-Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
+Mac                      59 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/05/2026 14:38:44 UTC
+ Last Updated on 14/05/2026 03:37:12 UTC
 <!--END_SECTION:waka-->
 
 ### About me
